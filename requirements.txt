@@ -1,0 +1,12 @@
+numpy==1.20 # Higher version trigger `module 'numpy' has no attribute 'float'`
+timm
+omegaconf
+numpy
+opencv_python
+loguru
+scikit-image
+tqdm
+Pillow
+thop
+tabulate
+easydict

@@ -1,0 +1,6 @@
+[submodule "DAMO-YOLO"]
+	path = DAMO-YOLO
+	url = https://github.com/tinyvision/DAMO-YOLO.git
+[submodule "voc2coco"]
+	path = voc2coco
+	url = https://github.com/yukkyo/voc2coco.git

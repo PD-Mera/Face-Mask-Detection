@@ -1,0 +1,8 @@
+venv/
+
+data/
+weights/
+workdirs/
+outputs/
+
+*.zip
