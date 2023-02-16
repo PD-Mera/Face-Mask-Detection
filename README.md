@@ -4,6 +4,8 @@ This repo simply uses DAMO-YOLO to detect people wearing masks, not wearing them
 
 ![result](./assets/results.jpg "result")
 
+<sub>Source image: Google</sub>
+
 ## Environments and Dependencies
 
 - ~~Python 3.10.6~~ (I try this but cannot install older version of `numpy`)
