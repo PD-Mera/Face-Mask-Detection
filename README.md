@@ -186,6 +186,14 @@ Training from DAMO-YOLO pretrained weights
 bash train.sh
 ```
 
+## Eval
+
+If you want to evaluate model, simply run
+
+``` bash
+bash eval.sh
+```
+
 ## Experiment results
 
 With 300 epochs
